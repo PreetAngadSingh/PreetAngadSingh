@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/angadnanda](https://www.behance.net/angadnanda)
+<!-- - 👨‍💻 All of my projects are available at [https://www.behance.net/angadnanda](https://www.behance.net/angadnanda) -->
 
 - 💬 Ask me about **Java, JavaScript, Angular, Web Design**
 
