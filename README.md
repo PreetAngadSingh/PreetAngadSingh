@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently a Graduate student at Concordia University
 
+- 👨‍💻 I'm actively seeking **Internships**
+
 - 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
