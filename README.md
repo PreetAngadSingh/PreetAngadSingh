@@ -9,13 +9,13 @@
 
 - 👨‍💻 I'm actively seeking **Internships**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.behance.net/angadnanda](https://www.behance.net/angadnanda) -->
 
-- 💬 Ask me about **Java, JavaScript, Angular, Web Design**
+- 💬 Ask me about **Java, Python, JavaScript, Angular, Web Design**
 
 - 📫 How to reach me **preetangad107@gmail.com**
 
