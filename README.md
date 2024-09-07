@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetangadsingh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="preetangadsingh" /> </p>
 
-- 🔭 I’m currently a Graduate student at Concordia University
+- 🔭 I’m currently an Analyst at Design Art Canada
 
 - 👨‍💻 I'm actively seeking **Full-Time Opportunities**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, Angular, Web Design**
 
-- 📫 How to reach me **preetangad107@gmail.com**
+- 📫 How to reach me **preetangad108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
